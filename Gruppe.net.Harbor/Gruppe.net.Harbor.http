@@ -1,0 +1,6 @@
+@Gruppe.net.Harbor_HostAddress = http://localhost:5028
+
+GET {{Gruppe.net.Harbor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
