@@ -1,4 +1,4 @@
-﻿namespace Gruppe.net.Harbor.Dock
+﻿namespace Gruppe.net.Harbor.DockInfo
 {
     public class DockSpace
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Gruppe.net.Harbor.Models
+namespace Gruppe.net.Harbor.ContainerInfo
 { 
     public class ContainerYards
     {

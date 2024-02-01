@@ -1,6 +1,6 @@
 ﻿using System.Security.AccessControl;
 
-namespace Gruppe.net.Harbor.Models
+namespace Gruppe.net.Harbor.Utilities
 {
     public class SecurityRegulations
     {
