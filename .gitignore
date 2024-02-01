@@ -28,3 +28,4 @@ Gruppe.net.Harbor/obj/Debug/net8.0/Gruppe.net.Harbor.GeneratedMSBuildEditorConfi
 Gruppe.net.Harbor/obj/Release/net8.0/Gruppe.net.Harbor.AssemblyInfo.cs
 Gruppe.net.Harbor/obj/Release/net8.0/Gruppe.net.Harbor.AssemblyInfoInputs.cache
 Gruppe.net.Harbor/obj/Release/net8.0/Gruppe.net.Harbor.GeneratedMSBuildEditorConfig.editorconfig
+*.sqlite
